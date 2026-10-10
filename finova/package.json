@@ -1,0 +1,12 @@
+{
+  "name": "finova",
+  "version": "1.0.0",
+  "description": "FINOVA - Goal-based personal finance planning engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
